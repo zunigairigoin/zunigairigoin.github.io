@@ -1,0 +1,9 @@
+project:
+  type: website
+  output-dir: .    
+website:
+  title: "Alonso Zuniga-Irigoin"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home

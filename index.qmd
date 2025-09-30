@@ -1,0 +1,14 @@
+---
+title: "webpage"
+format:
+  html:
+    theme: cosmo
+editor: visual
+---
+
+
+## Alonso Zuniga-Irigoin
+
+Hi! I am a PhD student of Mathematics for Economics and Business under the Institute for Statistics and Mathematics of WU Vienna University of Economics and Business.
+
+
